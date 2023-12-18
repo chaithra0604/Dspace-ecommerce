@@ -1,0 +1,59 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    max-width: 100%;
+  }
+.img{
+    margin-top: 20px;
+}
+
+.why-shop{
+    margin-top: 7%;
+    background-color: #c7bfbf;
+}
+.y-title{
+    padding: 3%;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.y1{
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.section-3{
+    margin-top: 50px;
+}
+
+.fb {
+    margin-left: 1%;
+    margin-top: 2%;
+}
+
+.fb img {
+    padding-left: 1%;
+}
+.txt-bx{    
+margin-top: 5%;
+width:80%;
+border-top-style:none;
+border-right-style: none;
+border-left-style: none;
+}
+
+.l-section{
+    margin-top: 20px;
+}

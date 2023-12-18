@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  max-width: 100%;
+}
+.media h1 {
+  text-align: center;
+}
+
+.txt-bx {
+  margin-top: 5%;
+  width: 20cm;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+}
+
+.fb {
+  margin-left: 1%;
+  margin-top: 2%;
+}
+
+.fb img {
+  padding-left: 1%;
+}
+
+.gallery-image {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2%;
+  margin-right: 6%;
+  transition: transform 0.3s;
+}
+
+.img-box { 
+  margin-bottom: 20px;
+}
+.img-box:hover{
+  transform: scale(1.2);
+}
+#name,
+#email,
+#colFormLabelSm,
+#message{
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+}
+#button{
+  width: 100px;
+}

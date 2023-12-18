@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 100%;
+  }
+.l-section{
+    margin-top: 20px;
+
+}
+.fb img{
+    padding-left:1%;
+   
+}
+.txt-bx{    
+    
+    margin-top: 5%;
+    width:80%;
+    border-top-style:none;
+    border-right-style: none;
+    border-left-style: none;
+    }
+
+
